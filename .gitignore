@@ -1,2 +1,5 @@
 .vscode
 montage.code-workspace
+*.png
+*.jpg
+*.mp4
