@@ -1,6 +1,7 @@
-# montage
+# PhotoMosaic
 
-## Example
+## Demo
+[![img_alt](http://img.youtube.com/vi/u2fQ43x0gEs/0.jpg)](http://www.youtube.com/watch?v=u2fQ43x0gEs)
 
 ## Usage
 ### Setting up environment
