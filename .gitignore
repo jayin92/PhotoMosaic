@@ -3,5 +3,3 @@ montage.code-workspace
 *.png
 *.jpg
 *.mp4
-!output.png
-!target.png
